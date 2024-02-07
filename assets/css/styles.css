@@ -1,0 +1,31 @@
+*{
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;}
+
+
+.form,nav{
+  background-color: #28A745;
+}
+
+.card {
+  width: 100%;
+  max-width: 300px;
+  margin: auto;}
+
+  .card-text{
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .card-tex2{
+    font-size: 13px;
+  }
+
+  .sindcto{
+    font-size: 16px;
+    align-self: end;
+  }
+  .condcto{
+    color:#28A745;
+  }
